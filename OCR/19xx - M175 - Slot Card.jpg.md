@@ -1,5 +1,5 @@
 # 19xx - M175 - Slot Card.jpg
-Wiki page: [M175](../../../PAGES/M175.md)
+Wiki page: [M175](../../../../PAGES/M175.md)
 
 
 - **Year:** unknown (unknown)
@@ -23,7 +23,7 @@ YourStuffOnline
 
 ```json
 {
- "file": "Modules/UNSORTED/M175/19xx - M175 - Slot Card.jpg",
+ "file": "Modules/UNSORTED/M175/PHOTOS/19xx - M175 - Slot Card.jpg",
  "sha256": "69361c6e5129d7a4a2ed4c10b162ee038c1b6597c393415b810613052a9a65d8",
  "kind": "module",
  "models": [

@@ -1,5 +1,5 @@
 # 19xx - M175 - wbsps - module - m175 slot card_small.jpg
-Wiki page: [M175](../../../PAGES/M175.md)
+Wiki page: [M175](../../../../PAGES/M175.md)
 
 
 - **Year:** unknown (unknown)
@@ -14,7 +14,7 @@ Wiki page: [M175](../../../PAGES/M175.md)
 
 ```json
 {
- "file": "Modules/UNSORTED/M175/19xx - M175 - wbsps - module - m175 slot card_small.jpg",
+ "file": "Modules/UNSORTED/M175/PHOTOS/19xx - M175 - wbsps - module - m175 slot card_small.jpg",
  "sha256": "a2086e56dc6970b0950c0e0dfaf34b0068ba91a454378f690f70a592fe3c4ac0",
  "kind": "module",
  "models": [
