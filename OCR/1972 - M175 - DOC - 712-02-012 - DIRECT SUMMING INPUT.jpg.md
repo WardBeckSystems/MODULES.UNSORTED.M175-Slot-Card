@@ -31,7 +31,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (292, 12)–(386, 31) mm: HOD CKD · WBS WAAD- · DATE DEC 73
 - **Wiring (first pass):** 124 connected wire groups from 1,224 runs; labelled ends: 259 mm → IN4oo?; 152 mm → A2ojz, sots 4k7; 140 mm → iok $, A2ojz; 84 mm → iok $, sots 4k7; 72 mm → 04,R 32, WBS
 
-Every curve, box, word and wire group: [1972 - M175 - DOC - 712-02-012 - DIRECT SUMMING INPUT (traced).json](../SCHEMATICS/1972%20-%20M175%20-%20DOC%20-%20712-02-012%20-%20DIRECT%20SUMMING%20INPUT%20(traced).json) (the CAD file: `1972 - M175 - DOC - 712-02-012 - DIRECT SUMMING INPUT (traced).dxf`).
+Every curve, box, word and wire group: [1972 - M175 - DOC - 712-02-012 - DIRECT SUMMING INPUT (traced).json](../SCHEMATICS/1972%20-%20M175%20-%20DOC%20-%20712-02-012%20-%20DIRECT%20SUMMING%20INPUT%20%28traced%29.json) (the CAD file: `1972 - M175 - DOC - 712-02-012 - DIRECT SUMMING INPUT (traced).dxf`).
 
 ## Full text
 
