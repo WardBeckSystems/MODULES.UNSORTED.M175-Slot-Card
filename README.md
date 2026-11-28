@@ -1,6 +1,6 @@
 # M175 Slot Card · Unsorted
 
-Ward-Beck Systems M175, 1972|5. Wiki page: [M175 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M175.html)
+Ward-Beck Systems M175, 1972|5. Wiki page: [M175 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.UNSORTED.M175-Slot-Card/)
 
 | Folder | What is in it | Files |
 |---|---|---|

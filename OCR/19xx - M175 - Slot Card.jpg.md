@@ -1,5 +1,5 @@
 # 19xx - M175 - Slot Card.jpg
-Wiki page: [M175](../../../../PAGES/M175.md)
+Wiki page: [M175](../)
 
 
 - **Year:** unknown (unknown)
